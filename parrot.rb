@@ -1,4 +1,4 @@
-def parrot
+def parrot_with_phrase()
   puts "Squawk!"
   return "Squawk!"
 
