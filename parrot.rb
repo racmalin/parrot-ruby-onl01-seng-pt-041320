@@ -3,7 +3,7 @@ def parrot
   
 end
   
-phrase = parrot
+return phrase = parrot
   puts "Squawk #{phrase}!"
 end
 end
