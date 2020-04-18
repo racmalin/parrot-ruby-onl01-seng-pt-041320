@@ -1,6 +1,6 @@
 def parrot()
+  puts "phrase #{'Pretty Bird!'}."
   return phrase = parrot
-  puts "Pretty Bird!"
 end
 
 def parrot
