@@ -7,3 +7,4 @@ return phrase = parrot
   puts "Squawk #{phrase}!"
  end
 end
+parrot
